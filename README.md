@@ -48,7 +48,7 @@ app/
 ├── utils/                 # NativeUtils (C), Auth manager, Notifikasi
 ├── cpp/                   # Algoritma C: Binary Search & Quick Sort
 └── assets/                # File HTML: about.html, privacy.html, terms.html
-
+```
 ---
 
 ## ⚙️ Teknologi yang Digunakan
