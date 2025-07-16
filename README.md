@@ -34,6 +34,8 @@ Lifescape adalah aplikasi Android yang dirancang untuk membantu pengguna dalam m
 ---
 
 ## 🏗️ Struktur Proyek
+
+```bash
 app/
 ├── activity/              # Halaman utama aplikasi (Auth, Main, Splash)
 ├── adapter/               # RecyclerView Adapter (Todo, Notes)
@@ -87,12 +89,6 @@ Kelompok 5 - Universitas Gunadarma
 * Amanda Sabila
 * Rafli Alfian Priyo Utomo
 * Rizky Nurliansyah
-
----
-
-## 📄 Lisensi
-
-MIT License (Opsional — sesuaikan bila ada)
 
 ---
 
